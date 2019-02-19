@@ -1,0 +1,22 @@
+DesktopResponsive={"1009":{
+"pageLayer":{"w":800,"h":1035,"bgColor":"#ffffff","bgImage":"images/1024x768_gray_bg.jpg","bgSize":"1009px 11px","bgRepeat":"repeat-y"}
+,
+"image20582":{"x":0,"y":0,"w":800,"h":1035,"bOffBottom":0,"i":"images/certificate001.png"}
+,
+"text20586":{"x":64,"y":252,"w":653,"h":113,"txtscale":100,"bOffBottom":0,"i":"images/text20586.png"}
+,
+"text20588":{"x":92,"y":410,"w":600,"h":80,"txtscale":100,"bOffBottom":0,"i":"images/text20588.png"}
+,
+"text20590":{"x":92,"y":498,"w":600,"h":62,"txtscale":100,"bOffBottom":0}
+,
+"text20592":{"x":92,"y":640,"w":600,"h":76,"txtscale":100,"bOffBottom":0,"i":"images/text20592.png"}
+,
+"text20596":{"x":92,"y":740,"w":600,"h":74,"txtscale":100,"bOffBottom":0}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":['images/1024x768_gray_bg.jpg','images/certificate001.png','images/text20586.png','images/text20588.png','images/text20592.png']
+}}
