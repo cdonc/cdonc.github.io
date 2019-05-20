@@ -205,6 +205,6 @@ PageTrackingObj.prototype.GetNumCompPages = function(childArray, countCompleted)
 var trivPageTracking = new PageTrackingObj(365,'f_link_bruk', 0, null);
 trivPageTracking.numPages = 34;
 
-trivPageTracking.publishTimeStamp = 20192171356;
+trivPageTracking.publishTimeStamp = 20193514858;
 
 trivPageTracking.title={id:1,v:0,c:[{id:192,v:0,c:[{id:2081,v:0},{id:5465,v:0},{id:2279,v:0}]},{id:2464,v:0,c:[{id:20496,v:0},{id:2466,v:0},{id:6053,v:0},{id:2791,v:0},{id:2993,v:0},{id:22611,v:0},{id:3233,v:0},{id:22697,v:0},{id:3258,v:0},{id:22704,v:0},{id:10693,v:0},{id:22846,v:0},{id:5571,v:0},{id:10684,v:0},{id:4383,v:0},{id:22890,v:0},{id:11467,v:0},{id:22921,v:0},{id:5687,v:0},{id:11519,v:0},{id:11773,v:0}]},{id:18080,v:0,t:1,c:[{id:19751,v:0},{id:20005,v:0},{id:20100,v:0},{id:20353,v:0},{id:20398,v:0},{id:18103,v:0},{id:20580,v:0},{id:22212,v:0},{id:22568,v:0}]},{id:9985,v:0,c:[{id:9986,v:0}]}]};
